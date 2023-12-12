@@ -1,0 +1,20 @@
+[
+    {
+        "id": "8ac0ce4b-bd2a-42bc-b9e4-78986fe56c55",
+        "title": "ramen",
+        "description": "cocina japonesa",
+        "price": "2.99",
+        "thumbnail": "no picture",
+        "code": "bebida-02",
+        "stock": 101
+    },
+    {
+        "id": "7b106efc-8ebb-432d-8bd1-4b123b03d46c",
+        "title": "agua",
+        "description": "agua de botella",
+        "price": "2.99",
+        "thumbnail": "no picture",
+        "code": "bebida-02",
+        "stock": 101
+    }
+]
